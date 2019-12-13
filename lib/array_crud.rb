@@ -21,12 +21,12 @@ element = "will"
 array.unshift ("will")
 end
 
-def remove_element_from_end_of_array(array=)
+def remove_element_from_end_of_array(array=["hello","good","well"])
 array = ["hello","good","well"]
 array.pop
 end
 
-def remove_element_from_start_of_array(array)
+def remove_element_from_start_of_array(array =)
 array = ["hello","hi","good"]
 array.shift
 end
