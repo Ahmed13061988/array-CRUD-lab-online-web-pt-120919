@@ -8,7 +8,7 @@ array = ["hi","hello","how are you","good"]
   
 end
 
-def add_element_to_end_of_array(array=["hello"], element="goody")
+def add_element_to_end_of_array(array="", element="goody")
 array=["hello"]
 element = "goody"
   array<<"goody"
