@@ -8,9 +8,9 @@ array = ["hi","hello","how are you","good"]
   
 end
 
-def add_element_to_end_of_array(array="", element="arrays")
+def add_element_to_end_of_array(array="", element="arrays!")
 array=[]
-element = "arrays"
+element = "arrays!"
   array<<"arrays"
 
 end
