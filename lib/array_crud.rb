@@ -30,17 +30,17 @@ remove_element_from_start_of_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  ["hello","hi","how are you"]
+  array =["hello","hi","how are you"]
   retrieve_element_from_index[0]
 end
 
 def retrieve_first_element_from_array(array)
-["hi","hello","good"]
-retrieve_first_element_from_array[0]
+array=["hi","hello","good"]
+array[0]
 end
 
 def retrieve_last_element_from_array(array)
-["good","mood","homer"]
-retrieve_last_element_from_array[2]
+array =["good","mood","homer"]
+array[2]
 
 end
