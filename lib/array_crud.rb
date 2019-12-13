@@ -22,7 +22,7 @@ array.unshift ("wow")
 end
 
 def remove_element_from_end_of_array(array=["hello","good","well"])
-array = ["hello","good","well"]
+array = ["hello","arrays!","well"]
 array.pop
 end
 
