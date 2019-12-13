@@ -37,8 +37,8 @@ def retrieve_element_from_index(array=["am"], index_number = 0)
   array[0]
 end
 
-def retrieve_first_element_from_array(array =["hi","hello","good"] )
-array=["hi","hello","good"]
+def retrieve_first_element_from_array(array =["wow","hello","good"] )
+array=["wow","hello","good"]
 array[0]
 end
 
