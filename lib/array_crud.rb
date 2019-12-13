@@ -26,8 +26,8 @@ array = ["hello","arays!","arrays!"]
 array.pop
 end
 
-def remove_element_from_start_of_array(array =["hello","hi","good"])
-array = ["hello","hi","good"]
+def remove_element_from_start_of_array(array =["wow","hi","good"])
+array = ["wow","hi","good"]
 array.shift
 end
 
