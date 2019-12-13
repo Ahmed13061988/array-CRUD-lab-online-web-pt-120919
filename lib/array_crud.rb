@@ -42,8 +42,8 @@ array=["wow","hello","good"]
 array[0]
 end
 
-def retrieve_last_element_from_array(array=["good","mood","homer"])
-array =["good","mood","homer"]
+def retrieve_last_element_from_array(array=["good","mood","arrays!"])
+array =["good","mood","arrays!"]
 array[2]
 
 end
