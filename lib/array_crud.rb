@@ -25,11 +25,13 @@ remove_element_from_end_of_array.pop
 end
 
 def remove_element_from_start_of_array(array)
-  
+["hello","hi","good"]
+remove_element_from_start_of_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  ["hello","hi","how are you"]
+  retrieve_element_from_index
 end
 
 def retrieve_first_element_from_array(array)
