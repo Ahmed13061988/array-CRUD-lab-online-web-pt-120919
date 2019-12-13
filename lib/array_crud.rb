@@ -31,8 +31,8 @@ array = ["wow","hi","good"]
 array.shift
 end
 
-def retrieve_element_from_index(array=["hello","hi","how are you"], index_number = 0)
-  array =["hello","hi","how are you"]
+def retrieve_element_from_index(array=["am"], index_number = 0)
+  array =["am"]
   index_number = 0
   array[0]
 end
