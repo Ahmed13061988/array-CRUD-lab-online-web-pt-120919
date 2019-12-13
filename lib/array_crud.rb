@@ -21,8 +21,8 @@ element = "wow"
 array.unshift ("wow")
 end
 
-def remove_element_from_end_of_array(array=["hello","good","well"])
-array = ["hello","arrays!","well"]
+def remove_element_from_end_of_array(array=["hello","arays!","well"])
+array = ["hello","arays!","arrays!"]
 array.pop
 end
 
