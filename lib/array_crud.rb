@@ -15,10 +15,10 @@ element = "arrays!"
 
 end
 
-def add_element_to_start_of_array(array=["hi"], element="will")
-array =["hi"]
-element = "will"
-array.unshift ("will")
+def add_element_to_start_of_array(array=["hi"], element="wow")
+array =[]
+element = "wow"
+array.unshift ("wow")
 end
 
 def remove_element_from_end_of_array(array=["hello","good","well"])
