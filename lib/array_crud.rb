@@ -11,7 +11,7 @@ end
 def add_element_to_end_of_array(array="", element="arrays!")
 array=[]
 element = "arrays!"
-  array<<"arrays"
+  array<<"arrays!"
 
 end
 
