@@ -26,12 +26,12 @@ array = ["hello","good","well"]
 array.pop
 end
 
-def remove_element_from_start_of_array(array =)
+def remove_element_from_start_of_array(array =["hello","hi","good"])
 array = ["hello","hi","good"]
 array.shift
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(array=, index_number)
   array =["hello","hi","how are you"]
   index_number = 0
   array[0]
