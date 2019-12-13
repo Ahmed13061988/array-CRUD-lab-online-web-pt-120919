@@ -37,12 +37,12 @@ def retrieve_element_from_index(array=["hello","hi","how are you"], index_number
   array[0]
 end
 
-def retrieve_first_element_from_array(array = )
+def retrieve_first_element_from_array(array =["hi","hello","good"] )
 array=["hi","hello","good"]
 array[0]
 end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array(array=)
 array =["good","mood","homer"]
 array[2]
 
