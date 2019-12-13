@@ -31,13 +31,13 @@ array = ["hello","hi","good"]
 array.shift
 end
 
-def retrieve_element_from_index(array=, index_number)
+def retrieve_element_from_index(array=["hello","hi","how are you"], index_number = 0)
   array =["hello","hi","how are you"]
   index_number = 0
   array[0]
 end
 
-def retrieve_first_element_from_array(array)
+def retrieve_first_element_from_array(array = )
 array=["hi","hello","good"]
 array[0]
 end
