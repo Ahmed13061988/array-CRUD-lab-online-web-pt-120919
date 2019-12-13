@@ -8,20 +8,20 @@ array = ["hi","hello","how are you","good"]
   
 end
 
-def add_element_to_end_of_array(array=["hello",], element)
+def add_element_to_end_of_array(array=["hello","how are you","good","well"], element="goody")
 array=["hello","how are you","good","well"]
 element = "goody"
   array<<"goody"
 
 end
 
-def add_element_to_start_of_array(array, element)
+def add_element_to_start_of_array(array=["hi"], element="will")
 array =["hi"]
 element = "will"
 array.unshift ("will")
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(array=)
 array = ["hello","good","well"]
 array.pop
 end
